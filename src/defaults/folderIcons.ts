@@ -20,7 +20,10 @@ const folderIcons: FolderIcons = {
     ],
   },
   'android': {
-    folderNames: ['android'],
+    folderNames: [
+      'android',
+      'entity',
+    ],
   },
   'animation': {
     folderNames: [
@@ -131,9 +134,11 @@ const folderIcons: FolderIcons = {
   'components': {
     folderNames: [
       'components',
+      'component',
       'widget',
       'widgets',
       'fragments',
+      'event',
     ],
   },
   'composables': {
@@ -181,6 +186,7 @@ const folderIcons: FolderIcons = {
     folderNames: [
       'content',
       'contents',
+      'ecs',
     ],
   },
   'controllers': {
@@ -237,6 +243,8 @@ const folderIcons: FolderIcons = {
     folderNames: [
       'debug',
       'debugging',
+      'log',
+      'logger',
     ],
   },
   'devcontainer': {
@@ -424,6 +432,7 @@ const folderIcons: FolderIcons = {
       'layout',
       'layouts',
       '_layouts',
+      'gui',
     ],
   },
   'lib': {
@@ -538,6 +547,7 @@ const folderIcons: FolderIcons = {
       'addons',
       'module',
       'modules',
+      'adapter',
     ],
   },
   'pre-commit': {
@@ -695,6 +705,7 @@ const folderIcons: FolderIcons = {
       '__test__',
       'spec',
       'specs',
+      'analysis',
     ],
   },
   'themes': {
