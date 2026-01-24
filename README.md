@@ -15,6 +15,10 @@
   <img src="assets/catwalk.webp" width="600"/>
 </p>
 
+## Forker Note
+
+This fork is only to add mapping between folder names and icons for the JetBrains IDEs fork.
+
 ## Previews
 
 <details>
