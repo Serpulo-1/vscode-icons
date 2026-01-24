@@ -168,6 +168,7 @@ const folderIcons: FolderIcons = {
       'connections',
       'integration',
       'integrations',
+      'dispatcher',
     ],
   },
   'constant': {
