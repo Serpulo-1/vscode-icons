@@ -195,7 +195,10 @@ const folderIcons: FolderIcons = {
     ],
   },
   'core': {
-    folderNames: ['core'],
+    folderNames: [
+      'core',
+      'domain',
+    ],
   },
   'coverage': {
     folderNames: [
