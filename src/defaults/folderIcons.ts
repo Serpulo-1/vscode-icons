@@ -746,6 +746,8 @@ const folderIcons: FolderIcons = {
       'utils',
       'utility',
       'utilities',
+      'help',
+      'helper',
     ],
   },
   'vercel': {
