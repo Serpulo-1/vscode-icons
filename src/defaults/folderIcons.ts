@@ -139,6 +139,8 @@ const folderIcons: FolderIcons = {
       'widgets',
       'fragments',
       'event',
+      'concept',
+      'concepts',
     ],
   },
   'composables': {
@@ -174,12 +176,18 @@ const folderIcons: FolderIcons = {
       'integration',
       'integrations',
       'dispatcher',
+      'bus',
+      'link',
+      'linker',
     ],
   },
   'constant': {
     folderNames: [
       'constant',
       'constants',
+      'math',
+      'mathematic',
+      'mathematics',
     ],
   },
   'content': {
